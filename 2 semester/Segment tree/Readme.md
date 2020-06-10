@@ -1,5 +1,5 @@
-# Задачи на дерево отрезков
+## Задачи на дерево отрезков
 
-отсюда: https://codeforces.com/group/QmrArgR1Jp/contest/269449
+Условие [тут](https://codeforces.com/group/QmrArgR1Jp/contest/269449)
 
- * Код кривой, и может не работать!
+ *Код кривой, и может не работать!*
